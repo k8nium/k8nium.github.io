@@ -1,0 +1,15 @@
+/*! @k8nium/renderRoutes */
+
+/*! @k8nium/theme-common */
+
+/*! @theme/Layout */
+
+/*! clsx */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*!***************************************************************************!*\
+  !*** ../packages/k8nium/k8nium-theme-classic/lib/theme/DocsRoot/index.js ***!
+  \***************************************************************************/

@@ -1,0 +1,15 @@
+/*! @k8nium/renderRoutes */
+
+/*! @k8nium/theme-common */
+
+/*! @k8nium/theme-common/internal */
+
+/*! @theme/SearchMetadata */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*!*********************************************************************************!*\
+  !*** ../packages/k8nium/k8nium-theme-classic/lib/theme/DocVersionRoot/index.js ***!
+  \*********************************************************************************/

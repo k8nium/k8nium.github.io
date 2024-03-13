@@ -1,0 +1,2 @@
+/*! For license information please see f57ad345.8af4565d.js.LICENSE.txt */
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7393],{4415:e=>{e.exports=JSON.parse('{"name":"k8nium-plugin-content-docs","id":"default"}')}}]);

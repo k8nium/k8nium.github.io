@@ -1,0 +1,2 @@
+/*! For license information please see e16015ca.0294e71e.js.LICENSE.txt */
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9700],{8195:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

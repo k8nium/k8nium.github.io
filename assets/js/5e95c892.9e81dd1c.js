@@ -1,0 +1,2 @@
+/*! For license information please see 5e95c892.9e81dd1c.js.LICENSE.txt */
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9661],{9865:(e,s,r)=>{r.r(s),r.d(s,{default:()=>l});r(7378);var t=r(624),u=r(5558),a=r(5829),c=r(5473),n=r(8466),i=r(4246);function l(e){return(0,i.jsx)(u.FG,{className:(0,t.Z)(a.k.wrapper.docsPages),children:(0,i.jsx)(n.Z,{children:(0,c.H)(e.route.routes)})})}}}]);
